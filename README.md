@@ -7,6 +7,8 @@
 
 [软件开发者路线图](https://book.douban.com/subject/4924164/)
 
-[Vue.js快跑：构建触手可及的高性能Web应用](https://book.douban.com/subject/30391161/)
+[Vue.js快跑：构建触手可及的高性能Web应用](https://book.douban.com/subject/30391161/) [读书笔记](https://github.com/sishenhei7/read-books/issues/1)
 
-[Webpack实战：入门、进阶与调优](https://book.douban.com/subject/34430881/)
+[Webpack实战：入门、进阶与调优](https://book.douban.com/subject/34430881/) [读书笔记](https://github.com/sishenhei7/read-books/issues/2)
+
+[前端架构：从入门到微前端](https://book.douban.com/subject/33477112/) [读书笔记](https://github.com/sishenhei7/read-books/issues/3)
