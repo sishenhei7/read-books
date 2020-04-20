@@ -4,7 +4,7 @@
 ## 2020
 
 序号 | 书名链接 | 笔记 |
---- | --- | --- |
+:-: | --- | --- |
 1 | [写给大家看的设计书](https://book.douban.com/subject/3323633/) | |
 2 | [软件开发者路线图](https://book.douban.com/subject/4924164/) | |
 3 | [Vue.js快跑：构建触手可及的高性能Web应用](https://book.douban.com/subject/30391161/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/1) |
