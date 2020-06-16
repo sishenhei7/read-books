@@ -12,5 +12,5 @@
 5 | [前端架构：从入门到微前端](https://book.douban.com/subject/33477112/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/3) |
 6 | [Python编程：从入门到实践](https://book.douban.com/subject/26829016/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/5) |
 7 | [白帽子讲Web安全](https://book.douban.com/subject/10546925/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/6) |
-8 | [图解HTTP]](https://book.douban.com/subject/25863515/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/7) |
+8 | [图解HTTP](https://book.douban.com/subject/25863515/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/7) |
 
