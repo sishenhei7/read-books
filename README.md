@@ -13,4 +13,6 @@
 6 | [Python编程：从入门到实践](https://book.douban.com/subject/26829016/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/5) |
 7 | [白帽子讲Web安全](https://book.douban.com/subject/10546925/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/6) |
 8 | [图解HTTP](https://book.douban.com/subject/25863515/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/7) |
+9 | [Node.js实战](https://book.douban.com/subject/25870705/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/8) |
+10 | [狼书（卷1）：更了不起的Node.js](https://book.douban.com/subject/33950116/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/9) |
 
