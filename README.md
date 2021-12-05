@@ -20,7 +20,8 @@
 13 | [计算机网络-自顶向下方法（原书第7版）](https://book.douban.com/subject/30280001/) | 暂无 |
 14 | [Operating Systems-Principles and Practice](https://book.douban.com/subject/25984145/) | 暂无 |
 15 | [Node.js Design Patterns](https://book.douban.com/subject/26819950/) | 暂无 |
-16 | [编译器设计（第2版）](https://book.douban.com/subject/20436488/) | 暂无 |
-17 | [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/) | 暂无 |
+16 | [coursera-操作系统原理](https://www.coursera.org/learn/os-pku/) | 暂无 |
+17 | [编译器设计（第2版）](https://book.douban.com/subject/20436488/) | 暂无 |
+18 | [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/) | 暂无 |
 
 
