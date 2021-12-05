@@ -15,11 +15,12 @@
 8 | [图解HTTP](https://book.douban.com/subject/25863515/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/7) |
 9 | [Node.js实战](https://book.douban.com/subject/25870705/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/8) |
 10 | [狼书（卷1）：更了不起的Node.js](https://book.douban.com/subject/33950116/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/9) |
-11 | [深入理解计算机系统（原书第3版）](https://book.douban.com/subject/26912767/) | 暂无 |
-12 | [计算机网络-自顶向下方法（原书第7版）](https://book.douban.com/subject/30280001/) | 暂无 |
-13 | [现代操作系统（第3版）](https://book.douban.com/subject/3852290/) | 暂无 |
+11 | [现代操作系统（第3版）](https://book.douban.com/subject/3852290/) | 暂无 |
+12 | [深入理解计算机系统（原书第3版）](https://book.douban.com/subject/26912767/) | 暂无 |
+13 | [计算机网络-自顶向下方法（原书第7版）](https://book.douban.com/subject/30280001/) | 暂无 |
 14 | [Operating Systems-Principles and Practice](https://book.douban.com/subject/25984145/) | 暂无 |
-15 | [编译器设计（第2版）](https://book.douban.com/subject/20436488/) | 暂无 |
-16 | [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/) | 暂无 |
+15 | [Node.js Design Patterns](https://book.douban.com/subject/26819950/) | 暂无 |
+16 | [编译器设计（第2版）](https://book.douban.com/subject/20436488/) | 暂无 |
+17 | [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/) | 暂无 |
 
 
