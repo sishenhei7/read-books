@@ -24,4 +24,15 @@
 17 | [编译器设计（第2版）](https://book.douban.com/subject/20436488/) | 暂无 |
 18 | [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/) | 暂无 |
 
+## 2021
 
+序号 | 书名链接 | 笔记 |
+:-: | --- | --- |
+1 | [现代操作系统（第3版）](https://book.douban.com/subject/3852290/) | 暂无 |
+2 | [深入理解计算机系统（原书第3版）](https://book.douban.com/subject/26912767/) | 暂无 |
+3 | [计算机网络-自顶向下方法（原书第7版）](https://book.douban.com/subject/30280001/) | 暂无 |
+4 | [Operating Systems-Principles and Practice](https://book.douban.com/subject/25984145/) | 暂无 |
+5 | [Node.js Design Patterns](https://book.douban.com/subject/26819950/) | 暂无 |
+6 | [coursera-操作系统原理](https://www.coursera.org/learn/os-pku/) | 暂无 |
+7 | [编译器设计（第2版）](https://book.douban.com/subject/20436488/) | 暂无 |
+8 | [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/) | 暂无 |
