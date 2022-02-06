@@ -28,3 +28,9 @@
 6 | [coursera-操作系统原理](https://www.coursera.org/learn/os-pku/) | 暂无 |
 7 | [编译器设计（第2版）](https://book.douban.com/subject/20436488/) | 暂无 |
 8 | [UNIX环境高级编程（第3版）](https://book.douban.com/subject/25900403/) | 暂无 |
+
+## 2022
+
+序号 | 书名链接 | 笔记 |
+:-: | --- | --- |
+1 | [恶意（东野圭吾）](https://book.douban.com/subject/3646172/) | 暂无 |
