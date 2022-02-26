@@ -6,6 +6,7 @@
 序号 | 书名链接 | 笔记 |
 :-: | --- | --- |
 1 | [恶意（东野圭吾）](https://book.douban.com/subject/3646172/) | 暂无 |
+2 | [C程序设计语言（第2版·新版）](https://book.douban.com/subject/1139336/) | 暂无 |
 
 ## 2021
 
