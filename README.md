@@ -7,6 +7,9 @@
 :-: | --- | --- |
 1 | [恶意（东野圭吾）](https://book.douban.com/subject/3646172/) | 暂无 |
 2 | [C程序设计语言（第2版·新版）](https://book.douban.com/subject/1139336/) | 暂无 |
+3 | [你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/) | 暂无 |
+4 | [你不知道的JavaScript（中卷）](https://book.douban.com/subject/26854244/) | 暂无 |
+5 | [每天5分钟玩转Docker容器技术](https://book.douban.com/subject/27593748/) | 暂无 |
 
 ## 2021
 
