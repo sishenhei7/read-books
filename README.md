@@ -11,6 +11,8 @@
 4 | [你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/) | 暂无 |
 5 | [你不知道的JavaScript（中卷）](https://book.douban.com/subject/26854244/) | 暂无 |
 6 | [每天5分钟玩转Docker容器技术](https://book.douban.com/subject/27593748/) | 暂无 |
+7 | [非暴力沟通](https://book.douban.com/subject/3533221/) | 暂无 |
+8 | [Learn React Hooks](https://book.douban.com/subject/35057628/) | 暂无 |
 
 ## 2021
 
