@@ -13,6 +13,9 @@
 6 | [每天5分钟玩转Docker容器技术](https://book.douban.com/subject/27593748/) | 暂无 |
 7 | [非暴力沟通](https://book.douban.com/subject/3533221/) | 暂无 |
 8 | [Learn React Hooks](https://book.douban.com/subject/35057628/) | 暂无 |
+9 | [爱的艺术](https://book.douban.com/subject/3026879/) | 暂无 |
+10 | [Flutter技术入门与实战](https://book.douban.com/subject/34895600/) | 暂无 |
+11 | [第一性原理](https://book.douban.com/subject/35265358/) | 暂无 |
 
 ## 2021
 
