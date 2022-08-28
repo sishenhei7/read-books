@@ -16,6 +16,9 @@
 9 | [爱的艺术](https://book.douban.com/subject/3026879/) | 暂无 |
 10 | [Flutter技术入门与实战](https://book.douban.com/subject/34895600/) | 暂无 |
 11 | [第一性原理](https://book.douban.com/subject/35265358/) | 暂无 |
+12 | [说话的魅力](https://book.douban.com/subject/20442386/) | 暂无 |
+13 | [你不可不知的人性](https://book.douban.com/subject/25803206/) | 暂无 |
+14 | [纳瓦尔宝典](https://book.douban.com/subject/35876121/) | 暂无 |
 
 ## 2021
 
