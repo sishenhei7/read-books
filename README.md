@@ -19,6 +19,7 @@
 12 | [说话的魅力](https://book.douban.com/subject/20442386/) | 暂无 |
 13 | [你不可不知的人性](https://book.douban.com/subject/25803206/) | 暂无 |
 14 | [纳瓦尔宝典](https://book.douban.com/subject/35876121/) | 暂无 |
+15 | [狂热分子](https://book.douban.com/subject/3057556/) | 暂无 |
 
 ## 2021
 
