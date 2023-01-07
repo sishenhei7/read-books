@@ -1,6 +1,13 @@
 # read-books
 📚那些年我读过的书📚
 
+## 2023
+
+序号 | 书名链接 | 笔记 |
+:-: | --- | --- |
+1 | [不会聊天就出局](https://book.douban.com/subject/33377094/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/10) |
+
+
 ## 2022
 
 序号 | 书名链接 | 笔记 |
@@ -23,7 +30,6 @@
 16 | [消失的13级台阶](https://book.douban.com/subject/34996429/) | 暂无 |
 17 | [置身事内-中国政府与经济发展](https://book.douban.com/subject/35546622/) | 暂无 |
 18 | [谈判-如何在博弈中获得更多](https://book.douban.com/subject/30203275/) | 暂无 |
-19 | [不会聊天就出局](https://book.douban.com/subject/33377094/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/10) |
 
 ## 2021
 
