@@ -20,6 +20,10 @@
 13 | [你不可不知的人性](https://book.douban.com/subject/25803206/) | 暂无 |
 14 | [纳瓦尔宝典](https://book.douban.com/subject/35876121/) | 暂无 |
 15 | [狂热分子](https://book.douban.com/subject/3057556/) | 暂无 |
+16 | [消失的13级台阶](https://book.douban.com/subject/34996429/) | 暂无 |
+17 | [置身事内-中国政府与经济发展](https://book.douban.com/subject/35546622/) | 暂无 |
+18 | [谈判-如何在博弈中获得更多](https://book.douban.com/subject/30203275/) | 暂无 |
+19 | [不会聊天就出局](https://book.douban.com/subject/33377094/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/10) |
 
 ## 2021
 
