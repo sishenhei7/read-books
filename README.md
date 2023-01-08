@@ -5,7 +5,7 @@
 
 序号 | 书名链接 | 笔记 |
 :-: | --- | --- |
-1 | [不会聊天就出局](https://book.douban.com/subject/33377094/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/10) |
+1 | [不会聊天就出局](https://book.douban.com/subject/33377094/) | 暂无 |
 
 
 ## 2022
