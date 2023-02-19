@@ -5,8 +5,9 @@
 
 序号 | 书名链接 | 笔记 |
 :-: | --- | --- |
-1 | [不会聊天就出局](https://book.douban.com/subject/33377094/) | 暂无 |
-
+1 | [不会聊天就出局](https://book.douban.com/subject/33377094/) | 已删 |
+2 | [腾讯传 : 中国互联网公司进化论](https://book.douban.com/subject/26929955/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/11) |
+3 | [情商2：影响你一生的社交商](https://book.douban.com/subject/5377234/) | [读书笔记](https://github.com/sishenhei7/read-books/issues/13) |
 
 ## 2022
 
